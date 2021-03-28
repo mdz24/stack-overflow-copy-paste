@@ -7,6 +7,8 @@ export default add
  * @param {Number} num2 - second  number for additon
  * @return {Number} - Result of addition
  */
+
+//start of add
 function add(num1, num2) {
   return num1 + num2
 }
